@@ -9,4 +9,5 @@ This python GUI project mainly focuses on the following points:
     -Graphical presentation of data sort by name
     -Consist of both Dark mode and Light mode
     -Database maintained on the MySQL database.
+    -Can Update any wrong entry by datetime without going into database.
    
